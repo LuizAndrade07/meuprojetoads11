@@ -1,0 +1,12 @@
+mkdir (cria pasta vazia)
+cd..(sair da pasta)
+rmdir/s (remove arquivo)
+cd dir (nomes diretorios)
+cls (limpa o cmd)
+dir /a (pastas ocultas)
+git init(passar tudo pro github perfil)
+git status(verifica o status do git)
+git add (adiciona todos arquivos)
+
+git config - nome "LuizFelipe"
+git config - email "luizfelipeandrade2610@gmail.com
