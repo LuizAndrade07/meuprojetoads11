@@ -10,3 +10,5 @@ git add (adiciona todos arquivos)
 
 git config - nome "LuizFelipe"
 git config - email "luizfelipeandrade2610@gmail.com
+
+aham aham beleza
